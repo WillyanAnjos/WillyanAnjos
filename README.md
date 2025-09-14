@@ -1,6 +1,2 @@
 # 💫 Sobre:
-Experiência em desenvolvimento de software, criação e suporte a novos produtos, sempre buscando
-soluções ágeis e eficientes. Atuação em projetos monolíticos e microsserviços, com integração de
-mensageria. Conhecimento em bancos relacionais e não relacionais, além de experiência com ferramentas
-de gestão (Jira, Trello).
-Arquiteturas: Clean Architecture, Vertical Slice e MVC
+Desenvolvedor Full Stack Pleno, Java, Spring Boot, Angular e bancos relacionais/noSQL. Tenho experiência com arquitetura de microsserviços, Docker, Redis, CI/CD e mensageria. Gosto de trabalhar em equipes colaborativas, ambientes ágeis (Scrum/Kanban) e desafios que envolvem escalabilidade e otimização.
