@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Sou Desenvolvedor Backend Java Pleno com mais de 5 anos de experiência no desenvolvimento, sustentação e modernização de sistemas corporativos e aplicações em produção.
+Sou Desenvolvedor FullStack Java Pleno com mais de 5 anos de experiência no desenvolvimento, sustentação e modernização de sistemas corporativos e aplicações em produção.
 
 Atuo principalmente com Java, Spring Boot, APIs REST, Spring Security, JPA/Hibernate, PostgreSQL, Redis, RabbitMQ, Kafka e Docker. Também possuo experiência com microsserviços, Clean Architecture, DDD, Arquitetura Hexagonal, testes unitários com JUnit 5 e Mockito, CI/CD, observabilidade e infraestrutura Linux.
 
