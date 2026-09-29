@@ -1,22 +1,20 @@
-# 💫 Sobre:
-Sou Desenvolvedor FullStack Java Pleno com mais de 5 anos de experiência no desenvolvimento, sustentação e modernização de sistemas corporativos e aplicações em produção.
+# 💫 About my self:
+I am a Mid-level Full-Stack Java Developer with over 5 years of experience in the development, maintenance, and modernization of enterprise systems and production applications.
 
-Atuo principalmente com Java, Spring Boot, APIs REST, Spring Security, JPA/Hibernate, PostgreSQL, Redis, RabbitMQ, Kafka e Docker. Também possuo experiência com microsserviços, Clean Architecture, DDD, Arquitetura Hexagonal, testes unitários com JUnit 5 e Mockito, CI/CD, observabilidade e infraestrutura Linux.
+My primary tech stack includes Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate, PostgreSQL, Redis, RabbitMQ, Kafka, and Docker. I also have experience with microservices, Clean Architecture, DDD, Hexagonal Architecture, unit testing (JUnit 5 and Mockito), CI/CD, observability, and Linux infrastructure.
 
-Atualmente, trabalho no desenvolvimento de soluções voltadas à engenharia viária, monitoramento de tráfego e processamento de informações operacionais. Entre minhas principais atuações estão:
+Currently, I develop solutions focused on road engineering, traffic monitoring, and operational data processing. Key areas of my work include:
 
-• Desenvolvimento e modernização de sistemas corporativos em Java e Spring Boot;
-• Criação e integração de APIs REST;
-• Comunicação entre sistemas utilizando RabbitMQ e MQTT;
-• Implementação de cache com Redis e otimização de consultas ao banco de dados;
-• Desenvolvimento de videomonitoramento em tempo real com WebRTC e H.264;
-• Manutenção de pipelines de CI/CD no Azure DevOps com implantação em Docker;
-• Investigação de incidentes, análise de logs e identificação de gargalos em produção;
-• Melhorias de performance, estabilidade e tempo de resposta das aplicações.
+• Developing and modernizing enterprise systems using Java and Spring Boot;
+• Creating and integrating REST APIs;
+• Facilitating system communication via RabbitMQ and MQTT;
+• Implementing Redis caching and optimizing database queries;
+• Developing real-time video monitoring solutions using WebRTC and H.264;
+• Maintaining CI/CD pipelines in Azure DevOps with Docker deployments;
+• Investigating incidents, analyzing logs, and identifying production bottlenecks;
+• Improving application performance, stability, and response times.
 
-Também tenho experiência com Angular, TypeScript, Flutter e Kotlin, o que facilita minha atuação em projetos que exigem integração entre backend, aplicações web e mobile.
+I also have experience with Angular, TypeScript, Flutter, and Kotlin, which facilitates my work on projects requiring seamless integration between backend, web, and mobile applications.
 
-Como projetos pessoais, desenvolvi o ReparoTech, um SaaS completo para gestão de assistências técnicas, utilizando Java, Spring Boot, Spring Security, JWT, Angular, PostgreSQL, WebSocket, Docker e recursos de inteligência artificial. Também desenvolvi uma plataforma de monitoramento residencial com câmeras, detecção de pessoas, armazenamento de eventos e envio de alertas.
-
-Principais tecnologias: Java 8, 11, 17 e 21, Spring Boot, Spring Security, JPA/Hibernate, APIs REST, PostgreSQL, Redis, RabbitMQ, Kafka, MQTT, Docker, Azure DevOps, Jenkins, GitHub Actions, JUnit 5, Mockito, Grafana, Angular e Flutter.
+Regarding personal projects, I developed ReparoTech—a comprehensive SaaS platform for managing technical repair services—using Java, Spring Boot, Spring Security, JWT, Angular, PostgreSQL, WebSocket, Docker, and AI features. I also built a home monitoring platform featuring camera integration, human detection, event storage, and alert notifications. Main technologies: Java 8, 11, 17 and 21, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, PostgreSQL, Redis, RabbitMQ, Kafka, MQTT, Docker, Azure DevOps, Jenkins, GitHub Actions, JUnit 5, Mockito, Grafana, Angular and Flutter.
 
