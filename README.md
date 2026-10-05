@@ -15,6 +15,3 @@ Currently, I develop solutions focused on road engineering, traffic monitoring, 
 • Improving application performance, stability, and response times.
 
 I also have experience with Angular, TypeScript, Flutter, and Kotlin, which facilitates my work on projects requiring seamless integration between backend, web, and mobile applications.
-
-Regarding personal projects, I developed ReparoTech—a comprehensive SaaS platform for managing technical repair services—using Java, Spring Boot, Spring Security, JWT, Angular, PostgreSQL, WebSocket, Docker, and AI features. I also built a home monitoring platform featuring camera integration, human detection, event storage, and alert notifications. Main technologies: Java 8, 11, 17 and 21, Spring Boot, Spring Security, JPA/Hibernate, REST APIs, PostgreSQL, Redis, RabbitMQ, Kafka, MQTT, Docker, Azure DevOps, Jenkins, GitHub Actions, JUnit 5, Mockito, Grafana, Angular and Flutter.
-
