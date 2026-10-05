@@ -1,7 +1,7 @@
 # 💫 About my self:
 I am a Mid-level Full-Stack Java Developer with over 5 years of experience in the development, maintenance, and modernization of enterprise systems and production applications.
 
-My primary tech stack includes Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate, PostgreSQL, Redis, RabbitMQ, Kafka, and Docker. I also have experience with microservices, Clean Architecture, DDD, Hexagonal Architecture, unit testing (JUnit 5 and Mockito), CI/CD, observability, and Linux infrastructure.
+My primary tech stack includes Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate, PostgreSQL, Redis, RabbitMQ, and Docker. I also have experience with microservices, Hexagonal Architecture, unit testing (JUnit 5 and Mockito), CI/CD, observability, and Linux infrastructure.
 
 Currently, I develop solutions focused on road engineering, traffic monitoring, and operational data processing. Key areas of my work include:
 
