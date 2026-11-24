@@ -1,17 +1,26 @@
-# 💫 About my self:
-I am a Mid-level Full-Stack Java Developer with over 5 years of experience in the development, maintenance, and modernization of enterprise systems and production applications.
+## About Me
 
-My primary tech stack includes Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate, PostgreSQL, Redis, RabbitMQ, and Docker. I also have experience with microservices, Hexagonal Architecture, unit testing (JUnit 5 and Mockito), CI/CD, observability, and Linux infrastructure.
+I'm a Mid-Level Software Developer with over 5 years of professional experience, currently focused on backend development with Java and Spring Boot.
 
-Currently, I develop solutions focused on road engineering, traffic monitoring, and operational data processing. Key areas of my work include:
+I have experience developing REST APIs, integrating systems, maintaining enterprise applications, and working with relational databases and asynchronous messaging.
 
-• Developing and modernizing enterprise systems using Java and Spring Boot;
-• Creating and integrating REST APIs;
-• Facilitating system communication via RabbitMQ and MQTT;
-• Implementing Redis caching and optimizing database queries;
-• Developing real-time video monitoring solutions using WebRTC and H.264;
-• Maintaining CI/CD pipelines in Azure DevOps with Docker deployments;
-• Investigating incidents, analyzing logs, and identifying production bottlenecks;
-• Improving application performance, stability, and response times.
+I use GitHub to share personal projects, explore software development practices, and improve my technical skills.
 
-I also have experience with Angular, TypeScript, Flutter, and Kotlin, which facilitates my work on projects requiring seamless integration between backend, web, and mobile applications.
+### Tech Stack
+
+- **Backend:** Java, Spring Boot, Hibernate and Spring Data JPA.
+- **Databases:** PostgreSQL, MySQL and Redis.
+- **Messaging:** RabbitMQ and MQTT.
+- **Testing:** JUnit and Mockito.
+- **DevOps:** Docker, Git, Azure DevOps and CI/CD.
+
+### Currently Improving
+
+- Microservices
+- Software Architecture
+- Automated Testing
+- Java 8+
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/willyan-anjos-263b3713b/)
